@@ -1,6 +1,6 @@
 # FloodReady
 
-A barangay flood early-warning and household readiness trackerr
+A barangay flood early-warning and household readiness tracker
 ## What it does
 
 FloodReady turns two simple signals — the day's rainfall forecast and the
