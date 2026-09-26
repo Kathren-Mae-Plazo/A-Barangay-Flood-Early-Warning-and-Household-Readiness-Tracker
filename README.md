@@ -34,8 +34,6 @@ details in one place.
 Inputs: rainfall forecast, river level, household details, flood event details.
 Outputs: readiness level, action guide, checklist, flood history, street summary.
 
-See `proposal.md` for the full logic plan and pseudocode.
-
 ## Project status
 
 Initial proposal stage. No working program yet — this repository holds the
