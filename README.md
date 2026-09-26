@@ -1,7 +1,6 @@
 # FloodReady
 
-A barangay flood early-warning and household readiness tracker, written in Python.
-
+A barangay flood early-warning and household readiness trackerr
 ## What it does
 
 FloodReady turns two simple signals — the day's rainfall forecast and the
