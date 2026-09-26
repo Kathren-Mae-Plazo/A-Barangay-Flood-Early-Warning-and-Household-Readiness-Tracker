@@ -41,4 +41,5 @@ proposal and the planned structure only.
 
 ## Author
 
-<Kathren Mae I. Plazo> — <8-Rosal>
+Kathren Maw I. Plazo 8-Rosal
+
